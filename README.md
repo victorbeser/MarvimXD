@@ -1,5 +1,5 @@
 
-<h2 align="center">Olá! Me chamo Victor Beserra, desenvolvedor web e apaixonado em tecnologia!</h2>
+<h2 align="center">Olá! Me chamo Victor Beserra, desenvolvedor PHP e SQL!</h2>
 <div align="center">
   <a href="https://github.com/MarvimXD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvimxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,3 +27,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
