@@ -57,4 +57,4 @@ WebDev Easy Creator</a> foi criado no intuito de facilitar a criação de págin
 
 <img src="https://user-images.githubusercontent.com/58988379/172281664-1ab140ae-1a39-49a6-b5d0-fc374371ad07.png">
 
-  <a target="_blank" href="[https://github.com/MarvimXD/Jusprovin-System](https://github.com/MarvimXD/WebDevEasy_PHP)">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
+  <a target="_blank" href="https://github.com/MarvimXD/WebDevEasy_PHP">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
