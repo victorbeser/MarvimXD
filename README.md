@@ -64,7 +64,7 @@ Quanto mais ferramentas "juntas", porém separadas, torna-se notório o não ent
   
   <img src="https://user-images.githubusercontent.com/58988379/175021956-1337e349-031d-435e-af79-41cee43deadf.png">
   
-  <a target="_blank" href="https://github.com/MarvimXD/PHPSimpleIDE/">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
+  <a target="_blank" href="https://github.com/MarvimXD/PHPSimpleIDE/">Clique aqui e confira mais sobre o PHPSimple IDE!</a>
      
 <br>
   <br>
@@ -75,7 +75,7 @@ WebDev Easy Creator</a> foi criado no intuito de facilitar a criação de págin
 
 <img src="https://user-images.githubusercontent.com/58988379/172281664-1ab140ae-1a39-49a6-b5d0-fc374371ad07.png">
 
-  <a target="_blank" href="https://github.com/MarvimXD/WebDevEasy_PHP">Clique aqui e confira mais sobre o PHPSimple IDE!</a>
+  <a target="_blank" href="https://github.com/MarvimXD/WebDevEasy_PHP">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
   
    
 <br>
