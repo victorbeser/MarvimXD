@@ -50,6 +50,24 @@ Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionário
 <br>
   <br>
   
+ # PHPSimple IDE
+
+O PHPSimple IDE visa facilitar o desenvolvimento e aprendizado da linguagem PHP.
+
+O iniciante em programação poderá aprender e praticar de forma fácil e intuitiva a linguagem, sem as complicações.
+
+Ao utilizar métodos comuns de desenvolvimento PHP é possível notar que é gerada uma confusão com os usuários mais novos no ramo.
+
+Um exemplo disso é o desenvolvimento utilizando XAMPP juntamente com o Visual Studio.
+
+Quanto mais ferramentas "juntas", porém separadas, torna-se notório o não entendimento de alguns aspectos da linguagem PHP.
+  
+  <img src="https://user-images.githubusercontent.com/58988379/175021956-1337e349-031d-435e-af79-41cee43deadf.png">
+  
+  <a target="_blank" href="https://github.com/MarvimXD/PHPSimpleIDE/">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
+     
+<br>
+  <br>
   
   # WEBDEV Easy Creator - v4.0
   
