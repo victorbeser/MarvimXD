@@ -1,5 +1,5 @@
 
-<h3 align="left">Olá, <br>Me chamo Victor Beserra. <br>• Desenvolvedor FullStack | PHP;<br>• Investidor;<br>• Designer Gráfico;<br>• Editor Áudio Visual; <br>• Analista Cyber Security; <br>• CEO da plataforma de serviços digitais <a href="https://quinzeconto.com.br/">QuinzeConto</a>. <br><br>Um eterno estudante buscando evolução e melhoria!</h3>
+<h3 align="left">Olá, <br>Me chamo Victor Beserra. <br>• Bacharelado em Sistemas de Informação <br>• Desenvolvedor FullStack | PHP;<br>• Investidor;<br>• Designer Gráfico;<br>• Editor Áudio Visual; <br>• Analista Cyber Security; <br>• CEO da plataforma de serviços digitais <a href="https://quinzeconto.com.br/">QuinzeConto</a>. <br><br>Um eterno estudante buscando evolução e melhoria!</h3>
 <h4>Mais abaixo poderá encontrar alguns dos meus principais projetos.</h4>
 <br>
 <div align="center">
