@@ -1,6 +1,5 @@
-
-<h3 align="left">Olá, <br>Me chamo Victor Beserra. <br>• Bacharelado em Sistemas de Informação <br>• Desenvolvedor FullStack | PHP;<br>• Investidor;<br>• Designer Gráfico;<br>• Editor Áudio Visual; <br>• IT Data Analytics & Cyber Security; <br>• Dev na plataforma de serviços digitais <a href="https://quinzeconto.com.br/">QuinzeConto</a>. <br><br>Um eterno estudante buscando evolução e melhoria!</h3>
-<h4>Mais abaixo poderá encontrar alguns dos meus principais projetos.</h4>
+<h3 align="left">Hi there, <br>Call me Victor Beserra. <br>• Bachelor's in Information Systems <br>• FullStack Developer | PHP & Python;<br>• Investor;<br>• Graphic Designer;<br>• Audio-Visual Editor;<br>• IT Data Analytics & Cyber Security; <br>• Founder at the digital services platform <a href="https://quinzeconto.com.br/">QuinzeConto</a>. <br><br>An eternal student seeking growth and improvement!</h3>
+<h4>Below you can find some of my main projects.</h4>
 <br>
 <div align="center">
   <a href="https://github.com/MarvimXD">
@@ -33,15 +32,15 @@
 <br>
 <br>
 
-<h2>Principais Projetos<h2>
+<h2>Main Projects<h2>
 
 # QuinzeConto
 
-A <a href="https://quinzeconto.com.br/">QuinzeConto</a> é uma plataforma de serviços digitais disponibilizada para o público, objetivando a facilidade da troca de serviços entre fornecedores e clientes.
+<a href="https://quinzeconto.com.br/">QuinzeConto</a> is a digital services platform available to the public, aiming to facilitate the exchange of services between providers and customers.
 
-Com a <a href="https://quinzeconto.com.br/">QuinzeConto</a> é possível a inserção de diversos serviços desde edição de fotos a tradução de textos, entre outros. O valor mínimo para cada produto é de R$ 15,00 (quinze reais), mas não necessariamente deve se ater a este valor.
+With <a href="https://quinzeconto.com.br/">QuinzeConto</a>, you can list various services, from photo editing to text translation, and more. The minimum price for each service is R$ 15.00 (fifteen Brazilian Reais), but it doesn't have to be limited to that amount.
 
-Para mais detalhes e informações acesse a área de informações e políticas da plataforma, <a href="https://quinzeconto.com.br/public/view/Pages.php?p=termos">clicando aqui</a>.
+For more details and information, please access the platform's information and policies section, <a href="https://quinzeconto.com.br/public/view/Pages.php?p=termos">clicking here</a>.
 
 <br>
 <br>
@@ -50,23 +49,23 @@ Para mais detalhes e informações acesse a área de informações e políticas 
 ![image](https://user-images.githubusercontent.com/58988379/188935840-13e27f31-0202-4ccf-b9dc-15816f5126ee.png)
 ![image](https://user-images.githubusercontent.com/58988379/188935931-b47842ca-4258-4635-9577-1bd6f6d1b5e2.png)
 
-<a target="_blank" href="https://github.com/MarvimXD/QuinzeConto">Clique aqui e confira mais sobre a QuinzeConto!</a>
+<a target="_blank" href="https://github.com/MarvimXD/QuinzeConto">Click here for more about QuinzeConto!</a>
 
 <br>
 <br>
   
 # Jusprovin System
-O Jusprovin System é um sistema de gerenciamento de pessoas feito para a empresa Jusprovin (JUSPROVIN ASSESSORIA EMPRESARIAL ONLINE LTDA). 
+The Jusprovin System is a people management system created for the company Jusprovin (JUSPROVIN ASSESSORIA EMPRESARIAL ONLINE LTDA).
 
-O objetivo do sistema é de gerir clientes, possíveis clientes e funcionários da empresa, visando a fácil utilização e aprendizado do sistema.
+The purpose of the system is to manage clients, potential clients, and employees of the company, focusing on ease of use and learning.
 
-Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionários e/ou clientes. Enviar ordens de faturamento através da geração de boletos em PHP. Cadastrar possíveis clientes para a prospecção da empresa. Segue abaixo o sistema e suas funções.
+With this system, the company can add, edit, view, and delete employees and/or clients. It can also send billing orders by generating PHP-based invoices. Below is the system and its functions.
 
-<strong>O layout do sistema foi especificado pela própria empresa.</strong>
+<strong>The system's layout was specified by the company itself.</strong>
 
 <img src="https://user-images.githubusercontent.com/58988379/174392906-b3b58db5-bbcc-4d2c-bc50-4ac24000df80.png">
 
-  <a target="_blank" href="https://github.com/MarvimXD/Jusprovin-System">Clique aqui e confira mais sobre o Jusprovin System!</a>
+<a target="_blank" href="https://github.com/MarvimXD/Jusprovin-System">Click here for more about the Jusprovin System!</a>
 
   
 <br>
@@ -74,30 +73,28 @@ Com este sistema a empresa poderá cadastrar, editar, ler e deletar funcionário
   
  # PHPSimple IDE
 
-O PHPSimple IDE visa facilitar o desenvolvimento e aprendizado da linguagem PHP.
+The PHPSimple IDE aims to make it easier to develop and learn the PHP language.
 
-O iniciante em programação poderá aprender e praticar de forma fácil e intuitiva a linguagem, sem as complicações.
+Beginners in programming can learn and practice the language easily and intuitively without complications.
 
-Ao utilizar métodos comuns de desenvolvimento PHP é possível notar que é gerada uma confusão com os usuários mais novos no ramo.
+When using common PHP development methods, it can be confusing for new users in the field.
 
-Um exemplo disso é o desenvolvimento utilizando XAMPP juntamente com o Visual Studio.
+For example, developing using XAMPP along with Visual Studio can create confusion for beginners.
 
-Quanto mais ferramentas "juntas", porém separadas, torna-se notório o não entendimento de alguns aspectos da linguagem PHP.
-  
-  <img src="https://user-images.githubusercontent.com/58988379/175021956-1337e349-031d-435e-af79-41cee43deadf.png">
-  
-  <a target="_blank" href="https://github.com/MarvimXD/PHPSimpleIDE/">Clique aqui e confira mais sobre o PHPSimple IDE!</a>
+<img src="https://user-images.githubusercontent.com/58988379/175021956-1337e349-031d-435e-af79-41cee43deadf.png">
+
+<a target="_blank" href="https://github.com/MarvimXD/PHPSimpleIDE/">Click here for more about PHPSimple IDE!</a>
      
 <br>
   <br>
   
   # WEBDEV Easy Creator - v4.0
   
-WebDev Easy Creator</a> foi criado no intuito de facilitar a criação de páginas HTML e PHP de forma fácil e rápida através do recurso Batch do Windows
+The <a href="https://github.com/MarvimXD/WebDevEasy_PHP">WebDev Easy Creator</a> was created to facilitate the creation of HTML and PHP pages quickly and easily using the Windows Batch feature.
 
 <img src="https://user-images.githubusercontent.com/58988379/172281664-1ab140ae-1a39-49a6-b5d0-fc374371ad07.png">
 
-  <a target="_blank" href="https://github.com/MarvimXD/WebDevEasy_PHP">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
+<a target="_blank" href="https://github.com/MarvimXD/WebDevEasy_PHP">Click here for more about WebDev Easy Creator!</a>
   
    
 <br>
@@ -105,16 +102,27 @@ WebDev Easy Creator</a> foi criado no intuito de facilitar a criação de págin
   
   
   # vBes WinControll - VBESwinc
-O vBes Win Controll foi criado no intuito de suprir algumas funcionalidades/ferramentas relacionadas ao sistema operacional Windows.
+The vBes Win Controll was created to provide some tools/features related to the Windows operating system.
 
-Na versão beta atual é possível ter um Remote Access Trojan que disponibiliza a utilização de comandos "CMD" para a outra máquina.
+In the current beta version, there's a Remote Access Trojan that allows the use of "CMD" commands on the other machine.
 
-Em breve mais funcionalidades/ferramentas.
-
+More features/tools coming soon.
 
 <img src="https://user-images.githubusercontent.com/58988379/175358397-de00d7fc-ab49-453b-904d-13293499cce6.png">
 
-  <a target="_blank" href="https://github.com/MarvimXD/vBes-WinControll">Clique aqui e confira mais sobre o WebDev Easy Creator!</a>
+<a target="_blank" href="https://github.com/MarvimXD/vBes-WinControll">Click here for more about vBes WinControll!</a>
+
+<br>
+<br>
+
+  
+  # Easy C Debugger for Linux OS
+The Easy C Debugger (ecd) was created to facilitate your debugging with C or C++ applications.!
+
+
+<img src="https://github.com/MarvimXD/MarvimXD/assets/58988379/6c34b991-9d75-46c7-82f7-6ead2025b415">
+
+<a target="_blank" href="https://github.com/MarvimXD/easycdebugger">Click here for more about Easy C/C++ Debugger!</a>
 
 <br>
 <br>
