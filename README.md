@@ -1,4 +1,4 @@
-<h3 align="left">Hi there, <br>Call me Victor Beserra. <br>• Bachelor's in Information Systems <br>• FullStack Developer | PHP & Python;<br>• Investor;<br>• Graphic Designer;<br>• Audio-Visual Editor;<br>• IT Data Analytics & Cyber Security; <br>• Founder at the digital services platform <a href="https://quinzeconto.com.br/">QuinzeConto</a>. <br><br>An eternal student seeking growth and improvement!</h3>
+<h3 align="left">Hi there, <br>Call me Victor Beserra. <br>• Bachelor's in Information Systems <br>• FullStack Developer | PHP & Python;<br>• Investor;<br>• Graphic Designer;<br>• Audio-Visual Editor;<br>• IT Data Analytics & Cyber Security; <br><br>An eternal student seeking growth and improvement!</h3>
 <h4>Below you can find some of my main projects.</h4>
 <br>
 <div align="center">
